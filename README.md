@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edwjchen
+- 👋 Hi, I’m Edward
 - 👀 I’m interested in systems and security
 - 🌱 I’m currently learning about applied cryptography
 - Learn more about me [here!](https://edwjchen.com/)
