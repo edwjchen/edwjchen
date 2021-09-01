@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edwjchen
 - 👀 I’m interested in systems and security
 - 🌱 I’m currently learning applied cryptography
-- Learn more @https://edwjchen.com/
+- Learn more [here](https://edwjchen.com/)
 
 <!---
 edwjchen/edwjchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
