@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Edward
-- 👀 I’m interested in systems and security
-- 🌱 I’m currently learning about applied cryptography
+- Hi, I’m Edward
 - Learn more about me [here!](https://edwjchen.com/)
 
 <!---
