@@ -1,5 +1,5 @@
 - Hi, I’m Edward
-- Learn more about me [here!](https://edwjchen.com/)
+- Learn more about me [here!](https://edwjchen.github.io/)
 
 <!---
 edwjchen/edwjchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
